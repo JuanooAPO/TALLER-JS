@@ -3,7 +3,7 @@
 var nombre = "Juano";
 console.log(nombre);
 
-nombre = "Juan Andrés";
+nombre = "Juan Andrés Alzate";
 console.log(nombre);
 
 // Ejercicio 1.2
